@@ -1053,3 +1053,4 @@ E:\src\dotNet\MAUI\MonkeyFinder\obj\Debug\net8.0-android\android\src\androidx\le
 E:\src\dotNet\MAUI\MonkeyFinder\obj\Debug\net8.0-android\android\src\androidx\media\R.java
 E:\src\dotNet\MAUI\MonkeyFinder\obj\Debug\net8.0-android\android\src\mono\androidx\asynclayoutinflater\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
 E:\src\dotNet\MAUI\MonkeyFinder\obj\Debug\net8.0-android\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+E:\src\dotNet\MAUI\MonkeyFinder\obj\Debug\net8.0-android\MonkeyFinder.sourcelink.json

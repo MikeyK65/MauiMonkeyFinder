@@ -9,36 +9,22 @@ using CommunityToolkit.Mvvm.ComponentModel;
 
 namespace MonkeyFinder.ViewModel
 {
-    [INotifyPropertyChanged]
-    public partial class BaseViewModel
+    public partial class BaseViewModel : ObservableObject
     {
+        public BaseViewModel()
+        {
+            
+        }
+
+        // Community toolkit decorators to create lots of property code
+        [ObservableProperty]
+        [NotifyPropertyChangedFor(nameof(IsNotBusy))]
         bool isBusy;
+
+        [ObservableProperty]
         string title;
 
-        public bool IsBusy
-        {
-            get => isBusy;
-            set
-            {
-                if (isBusy == value) return;
-                isBusy = value;
-                OnPropertyChanged();
-                //OnPropertyChanged(nameof(IsBusy));
-            }
-        }
-
-        public string Title
-        {
-            get => title;
-            set
-            {
-                if (title == value) return;
-                title = value;
-                OnPropertyChanged(nameof(Title));
-            }
-        }
-
-        public event PropertyChangedEventHandler? PropertyChanged;
+        public bool IsNotBusy => !IsBusy;
 
 
     }

@@ -311,3 +311,4 @@ E:\src\dotNet\MAUI\MonkeyFinder\obj\Debug\net8.0-ios\iossimulator-x64\MonkeyFind
 E:\src\dotNet\MAUI\MonkeyFinder\obj\Debug\net8.0-ios\iossimulator-x64\MonkeyFinder.genruntimeconfig.cache
 E:\src\dotNet\MAUI\MonkeyFinder\obj\Debug\net8.0-ios\iossimulator-x64\ref\MonkeyFinder.dll
 E:\src\dotNet\MAUI\MonkeyFinder\bin\Debug\net8.0-ios\iossimulator-x64\CommunityToolkit.Mvvm.dll
+E:\src\dotNet\MAUI\MonkeyFinder\obj\Debug\net8.0-ios\iossimulator-x64\MonkeyFinder.sourcelink.json

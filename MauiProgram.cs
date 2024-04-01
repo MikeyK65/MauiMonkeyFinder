@@ -1,4 +1,6 @@
 ﻿using Microsoft.Extensions.Logging;
+using MonkeyFinder.Services;
+using MonkeyFinder.ViewModel;
 
 namespace MonkeyFinder
 {
@@ -14,6 +16,11 @@ namespace MonkeyFinder
                     fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
                     fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
                 });
+
+            builder.Services.AddSingleton<MainPage>();
+
+            builder.Services.AddSingleton<MonkeyService>();
+            builder.Services.AddSingleton<MonkeysViewModel>();
 
 #if DEBUG
     		builder.Logging.AddDebug();

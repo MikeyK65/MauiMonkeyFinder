@@ -178,3 +178,4 @@ E:\src\dotNet\MAUI\MonkeyFinder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\P
 E:\src\dotNet\MAUI\MonkeyFinder\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CommunityToolkit.Mvvm.dll
 E:\src\dotNet\MAUI\MonkeyFinder\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\System.Text.Encodings.Web.dll
 E:\src\dotNet\MAUI\MonkeyFinder\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\System.Text.Json.dll
+E:\src\dotNet\MAUI\MonkeyFinder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MonkeyFinder.sourcelink.json

@@ -3,32 +3,16 @@
   "WorkspaceRootPath": "E:\\src\\dotNet\\MAUI\\MonkeyFinder\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA60C405-B922-4DA3-B5D5-D394C7270EAB}|MonkeyFinder.csproj|e:\\src\\dotnet\\maui\\monkeyfinder\\view\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{FA60C405-B922-4DA3-B5D5-D394C7270EAB}|MonkeyFinder.csproj|solutionrelative:view\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FA60C405-B922-4DA3-B5D5-D394C7270EAB}|MonkeyFinder.csproj|e:\\src\\dotnet\\maui\\monkeyfinder\\services\\monkeyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA60C405-B922-4DA3-B5D5-D394C7270EAB}|MonkeyFinder.csproj|solutionrelative:services\\monkeyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA60C405-B922-4DA3-B5D5-D394C7270EAB}|MonkeyFinder.csproj|e:\\src\\dotnet\\maui\\monkeyfinder\\view\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA60C405-B922-4DA3-B5D5-D394C7270EAB}|MonkeyFinder.csproj|solutionrelative:view\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA60C405-B922-4DA3-B5D5-D394C7270EAB}|MonkeyFinder.csproj|e:\\src\\dotnet\\maui\\monkeyfinder\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA60C405-B922-4DA3-B5D5-D394C7270EAB}|MonkeyFinder.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FA60C405-B922-4DA3-B5D5-D394C7270EAB}|MonkeyFinder.csproj|e:\\src\\dotnet\\maui\\monkeyfinder\\viewmodel\\monkeysviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA60C405-B922-4DA3-B5D5-D394C7270EAB}|MonkeyFinder.csproj|solutionrelative:viewmodel\\monkeysviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA60C405-B922-4DA3-B5D5-D394C7270EAB}|MonkeyFinder.csproj|e:\\src\\dotnet\\maui\\monkeyfinder\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA60C405-B922-4DA3-B5D5-D394C7270EAB}|MonkeyFinder.csproj|solutionrelative:globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA60C405-B922-4DA3-B5D5-D394C7270EAB}|MonkeyFinder.csproj|e:\\src\\dotnet\\maui\\monkeyfinder\\viewmodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA60C405-B922-4DA3-B5D5-D394C7270EAB}|MonkeyFinder.csproj|solutionrelative:viewmodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA60C405-B922-4DA3-B5D5-D394C7270EAB}|MonkeyFinder.csproj|e:\\src\\dotnet\\maui\\monkeyfinder\\view\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FA60C405-B922-4DA3-B5D5-D394C7270EAB}|MonkeyFinder.csproj|solutionrelative:view\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FA60C405-B922-4DA3-B5D5-D394C7270EAB}|MonkeyFinder.csproj|e:\\src\\dotnet\\maui\\monkeyfinder\\view\\detailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -37,6 +21,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{FA60C405-B922-4DA3-B5D5-D394C7270EAB}|MonkeyFinder.csproj|e:\\src\\dotnet\\maui\\monkeyfinder\\viewmodel\\monkeydetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA60C405-B922-4DA3-B5D5-D394C7270EAB}|MonkeyFinder.csproj|solutionrelative:viewmodel\\monkeydetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60C405-B922-4DA3-B5D5-D394C7270EAB}|MonkeyFinder.csproj|e:\\src\\dotnet\\maui\\monkeyfinder\\view\\detailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA60C405-B922-4DA3-B5D5-D394C7270EAB}|MonkeyFinder.csproj|solutionrelative:view\\detailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60C405-B922-4DA3-B5D5-D394C7270EAB}|MonkeyFinder.csproj|e:\\src\\dotnet\\maui\\monkeyfinder\\view\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA60C405-B922-4DA3-B5D5-D394C7270EAB}|MonkeyFinder.csproj|solutionrelative:view\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60C405-B922-4DA3-B5D5-D394C7270EAB}|MonkeyFinder.csproj|e:\\src\\dotnet\\maui\\monkeyfinder\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA60C405-B922-4DA3-B5D5-D394C7270EAB}|MonkeyFinder.csproj|solutionrelative:globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FA60C405-B922-4DA3-B5D5-D394C7270EAB}|MonkeyFinder.csproj|e:\\src\\dotnet\\maui\\monkeyfinder\\model\\monkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,24 +46,24 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MauiProgram.cs",
-              "DocumentMoniker": "E:\\src\\dotNet\\MAUI\\MonkeyFinder\\MauiProgram.cs",
-              "RelativeDocumentMoniker": "MauiProgram.cs",
-              "ToolTip": "E:\\src\\dotNet\\MAUI\\MonkeyFinder\\MauiProgram.cs",
-              "RelativeToolTip": "MauiProgram.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA+AAAA",
+              "DocumentIndex": 5,
+              "Title": "DetailsPage.xaml.cs",
+              "DocumentMoniker": "E:\\src\\dotNet\\MAUI\\MonkeyFinder\\View\\DetailsPage.xaml.cs",
+              "RelativeDocumentMoniker": "View\\DetailsPage.xaml.cs",
+              "ToolTip": "E:\\src\\dotNet\\MAUI\\MonkeyFinder\\View\\DetailsPage.xaml.cs",
+              "RelativeToolTip": "View\\DetailsPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T17:34:49.888Z",
+              "WhenOpened": "2024-04-02T18:18:49.758Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "GlobalUsing.cs",
               "DocumentMoniker": "E:\\src\\dotNet\\MAUI\\MonkeyFinder\\GlobalUsing.cs",
               "RelativeDocumentMoniker": "GlobalUsing.cs",
@@ -75,75 +71,63 @@
               "RelativeToolTip": "GlobalUsing.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T17:25:01.08Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-01T17:25:01.08Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MonkeyService.cs",
               "DocumentMoniker": "E:\\src\\dotNet\\MAUI\\MonkeyFinder\\Services\\MonkeyService.cs",
               "RelativeDocumentMoniker": "Services\\MonkeyService.cs",
               "ToolTip": "E:\\src\\dotNet\\MAUI\\MonkeyFinder\\Services\\MonkeyService.cs",
               "RelativeToolTip": "Services\\MonkeyService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAMAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAEwCwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-01T16:04:37.207Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "DetailsPage.xaml",
               "DocumentMoniker": "E:\\src\\dotNet\\MAUI\\MonkeyFinder\\View\\DetailsPage.xaml",
               "RelativeDocumentMoniker": "View\\DetailsPage.xaml",
               "ToolTip": "E:\\src\\dotNet\\MAUI\\MonkeyFinder\\View\\DetailsPage.xaml",
               "RelativeToolTip": "View\\DetailsPage.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAACEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-01T15:17:38.574Z"
+              "WhenOpened": "2024-04-01T15:17:38.574Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "MonkeysViewModel.cs",
               "DocumentMoniker": "E:\\src\\dotNet\\MAUI\\MonkeyFinder\\ViewModel\\MonkeysViewModel.cs",
               "RelativeDocumentMoniker": "ViewModel\\MonkeysViewModel.cs",
               "ToolTip": "E:\\src\\dotNet\\MAUI\\MonkeyFinder\\ViewModel\\MonkeysViewModel.cs",
               "RelativeToolTip": "ViewModel\\MonkeysViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAEwHMAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-01T14:56:31.891Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "MonkeyDetailsViewModel.cs",
               "DocumentMoniker": "E:\\src\\dotNet\\MAUI\\MonkeyFinder\\ViewModel\\MonkeyDetailsViewModel.cs",
               "RelativeDocumentMoniker": "ViewModel\\MonkeyDetailsViewModel.cs",
               "ToolTip": "E:\\src\\dotNet\\MAUI\\MonkeyFinder\\ViewModel\\MonkeyDetailsViewModel.cs",
               "RelativeToolTip": "ViewModel\\MonkeyDetailsViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T14:56:19.008Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BaseViewModel.cs",
-              "DocumentMoniker": "E:\\src\\dotNet\\MAUI\\MonkeyFinder\\ViewModel\\BaseViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModel\\BaseViewModel.cs",
-              "ToolTip": "E:\\src\\dotNet\\MAUI\\MonkeyFinder\\ViewModel\\BaseViewModel.cs",
-              "RelativeToolTip": "ViewModel\\BaseViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T14:56:03.267Z",
+              "WhenOpened": "2024-04-01T14:56:19.008Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "E:\\src\\dotNet\\MAUI\\MonkeyFinder\\View\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "View\\MainPage.xaml.cs",
@@ -156,20 +140,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "E:\\src\\dotNet\\MAUI\\MonkeyFinder\\View\\MainPage.xaml",
               "RelativeDocumentMoniker": "View\\MainPage.xaml",
               "ToolTip": "E:\\src\\dotNet\\MAUI\\MonkeyFinder\\View\\MainPage.xaml",
               "RelativeToolTip": "View\\MainPage.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA2AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-04-01T13:21:37.997Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "Monkey.cs",
               "DocumentMoniker": "E:\\src\\dotNet\\MAUI\\MonkeyFinder\\Model\\Monkey.cs",
               "RelativeDocumentMoniker": "Model\\Monkey.cs",

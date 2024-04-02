@@ -2,9 +2,11 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:model="clr-namespace:MonkeyFinder.Model"
+             xmlns:ios="clr-namespace:Microsoft.Maui.Controls.PlatformConfiguration.iOSSpecific;assembly=Microsoft.Maui.Controls"
              xmlns:viewmodel="clr-namespace:MonkeyFinder.ViewModel"
              x:DataType="viewmodel:MonkeysViewModel"
              Title="{Binding Title}"
+             ios:Page.UseSafeArea="True"
              x:Class="MonkeyFinder.MainPage">
 
     <Grid ColumnDefinitions="*,*" ColumnSpacing="5" RowDefinitions="*,Auto" RowSpacing="0">
@@ -13,6 +15,10 @@
                 <DataTemplate x:DataType="model:Monkey">
                     <Grid Padding="10">
                         <Frame HeightRequest="125" Padding="0">
+                            <Frame.GestureRecognizers>
+                                <TapGestureRecognizer NumberOfTapsRequired="1" CommandParameter="{Binding .}" 
+                                                      Command="{Binding Source={RelativeSource AncestorType={x:Type viewmodel:MonkeysViewModel}}, Path=GoToDetailsCommand}"/>
+                            </Frame.GestureRecognizers>
                             <Grid Padding="0" ColumnDefinitions="125, *">
                                 <Image Aspect="AspectFill" Source="{Binding Image}" WidthRequest="125" HeightRequest="125"/>
 
@@ -28,9 +34,10 @@
             </CollectionView.ItemTemplate>
         </CollectionView>
 
-        <Button Text="Get Monkeys" Command="{Binding GetMonkeysCommand}" IsEnabled="{Binding IsNotBusy}" Grid.Row="1" Margin="8">
-            
-        </Button>
+        <Button Text="Get Monkeys" Command="{Binding GetMonkeysCommand}" IsEnabled="{Binding IsNotBusy}" Grid.Row="1" Margin="8"/>
+        <Button Text="Find Closest" Command="{Binding GetClosestMonkeyCommand}" IsEnabled="{Binding IsNotBusy}" Grid.Row="1"  Grid.Column ="1" Margin="8"/>
+
+
 
         <ActivityIndicator IsVisible="{Binding IsBusy}" IsRunning="{Binding IsBusy}" HorizontalOptions="FillAndExpand" VerticalOptions="CenterAndExpand" Grid.RowSpan="2" Grid.ColumnSpan="2"/>
     </Grid>

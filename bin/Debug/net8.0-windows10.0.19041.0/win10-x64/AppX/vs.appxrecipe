@@ -29,13 +29,13 @@
     <AppXManifest Include="E:\src\dotNet\MAUI\MonkeyFinder\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-04-01T17:44:37.946</Modified>
+      <Modified>2024-04-02T20:07:33.750</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="E:\src\dotNet\MAUI\MonkeyFinder\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-04-01T17:38:08.414</Modified>
+      <Modified>2024-04-02T20:07:33.607</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\src\dotNet\MAUI\MonkeyFinder\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MonkeyFinder.runtimeconfig.json">
       <PackagePath>MonkeyFinder.runtimeconfig.json</PackagePath>
@@ -43,11 +43,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\src\dotNet\MAUI\MonkeyFinder\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MonkeyFinder.dll">
       <PackagePath>MonkeyFinder.dll</PackagePath>
-      <Modified>2024-04-01T17:44:37.447</Modified>
+      <Modified>2024-04-02T20:07:33.089</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\src\dotNet\MAUI\MonkeyFinder\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>MonkeyFinder.exe</PackagePath>
-      <Modified>2024-04-01T17:44:37.456</Modified>
+      <Modified>2024-04-02T20:07:33.131</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\src\dotNet\MAUI\MonkeyFinder\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>

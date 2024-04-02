@@ -23,7 +23,7 @@ namespace MonkeyFinder.Services
         {
             if (monkeyList?.Count > 0) return monkeyList;
 
-            var url = "http://montemagno.com/monkeys.json";
+            var url = "https://montemagno.com/monkeys.json";
             var response = await httpClient.GetAsync(url);
 
             // If no internet - cando it from a local file
